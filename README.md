@@ -1,7 +1,7 @@
 # Stone-Paper-game
 Develop a python program which prompts user to enter rock/paper/scissor and displays win or lose. Basically you have to develop a rock, paper, scissor game.
 import random
-
+#Stone-Paper-game
 def play_rock_paper_scissors():
   """Plays a game of rock, paper, scissors."""
 
